@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyNumber", "LuckyNumber\LuckyNumber.csproj", "{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBC2FB9-96A1-4E90-9525-4503745A3EC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
